@@ -1,19 +1,19 @@
 @font-face {
     font-weight: 500; /* Соответствует значению medium */
     font-family: 'Montserrat';
-    src: url("/fonts/Montserrat-Medium.ttf");
+    src: url("fonts/Montserrat-Medium.ttf");
   }
   
 @font-face {
     font-weight: 700; /* Соответствует значению bold */
     font-family: 'Montserrat';
-    src: url("/fonts/Montserrat-Bold.ttf");
+    src: url("fonts/Montserrat-Bold.ttf");
 }
 
 @font-face {
     font-weight: 400;
     font-family: 'Montserrat';
-    src: url("/fonts/Montserrat-Regular.ttf");
+    src: url("fonts/Montserrat-Regular.ttf");
 }
 
 body {
